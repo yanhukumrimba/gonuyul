@@ -1,4 +1,4 @@
-## Hello word👋
+## Hello Bro :)👋
 ##### Update 03 September 2021
 ````
 Coded by : Dian Rizki Pratama
