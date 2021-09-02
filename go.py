@@ -348,3 +348,9 @@ def manualmbasic():
     p.map(main, id)
     print'\n \x1b[1;93m [✓] Selesai'
     exit()
+
+
+if __name__ == '__main__':
+    os.system('clear')
+    print logo
+    tokenz()
