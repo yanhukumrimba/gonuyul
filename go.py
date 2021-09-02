@@ -153,7 +153,6 @@ def menu():
     print(" \x1b[1;96m [•] Nama     : "+nama)
     print(" \x1b[1;96m [•] ID       : "+id)
     print(" \x1b[1;96m [•] IP       : "+ip)
-    print(" \x1b[1;97m [•] Status   : \x1b[1;92m Premium
     print("")
     print(" \x1b[1;93m [1]. Crack Dari Publik/Teman")
     print(" \x1b[1;93m [2]. Lihat Hasil Crack")
